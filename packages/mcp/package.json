@@ -32,7 +32,7 @@
 		"@modelcontextprotocol/client": "2.0.0",
 		"mime-types": "^3.0.2",
 		"picomatch": "^4.0.5",
-		"shell-quote": "^1.10.0",
+		"shell-quote": "^1.11.0",
 		"zod": "^4.4.3"
 	},
 	"devDependencies": {
