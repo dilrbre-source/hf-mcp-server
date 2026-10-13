@@ -52,7 +52,7 @@
 	"dependencies": {
 		"@huggingface/hub": "^2.13.3",
 		"@llmindset/hf-mcp": "workspace:^",
-		"@modelcontextprotocol/client": "2.0.0",
+		"@modelcontextprotocol/client": "2.2.0",
 		"@modelcontextprotocol/node": "2.0.0",
 		"@modelcontextprotocol/server": "2.0.0",
 		"@radix-ui/react-checkbox": "^1.3.11",
